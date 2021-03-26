@@ -16,7 +16,7 @@ export default function Container(props) {
   const router = useRouter();
   const meta = {
     title: 'Road Safety:How Bikeable is your community?',
-    description: `Front-end developer, Backend Developer, Machine Learning and IOT`,
+    description: `Go for a ride and use this checklist to rate your neighborhood's bikeability`,
     type: 'website',
     ...customMeta
   };
