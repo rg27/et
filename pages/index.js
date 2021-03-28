@@ -7,7 +7,7 @@ import ProjectCard from '../components/ProjectCard';
     <Container>
       <div className="justify-center ">
       <iframe 
-        width="970" 
+        width="900" 
         height="750" 
         src="https://datastudio.google.com/embed/reporting/23b10dc1-1e70-492f-adc4-cf93bc112041/page/EQl9B" 
         frameborder="0" 
